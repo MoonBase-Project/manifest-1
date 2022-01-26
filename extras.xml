@@ -23,6 +23,7 @@
   <!-- packages repos -->
   <project path="packages/apps/ExactCalculator" name="packages_apps_ExactCalculator" remote="aospk" />
   <project path="packages/apps/FMRadio" name="packages_apps_FMRadio" remote="aospk" />
+  <project path="packages/apps/KrakenDoze" name="packages_apps_KrakenDoze" remote="aospk" />
   <project path="packages/apps/KrakenPrebuilts" name="packages_apps_KrakenPrebuilts" remote="aospk" />
   <project path="packages/apps/SimpleDeviceConfig" name="packages_apps_SimpleDeviceConfig" remote="aospk" />
   <project path="packages/apps/Updater" name="packages_apps_Updater" remote="aospk" />
